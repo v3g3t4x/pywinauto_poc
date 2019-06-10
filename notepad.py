@@ -18,7 +18,7 @@ def testNotepad1 ():
     app.NotepadDialog.menu_select("File->Exit")
     ##app.UntitledNotepad.print_control_identifiers()
     ##app.Dialog.Button2.click()  
-    print(" Uscito")
+    print("Uscito")
     return;
 
 testNotepad1()
